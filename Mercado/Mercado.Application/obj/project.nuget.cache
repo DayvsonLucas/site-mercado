@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oiphkwKIvFzsN0D6QU3tOUAkLt+EiT4lXCaKHdmdmOzDyGvw1RwLU6mt8/FNJb+guEJYkb8KSMbqDYfbzdvNrQ==",
+  "dgSpecHash": "hEE10NrNJJnpec3hCDklF94HzxOvPLFO1ubxZQv0r7MOnHxr/7EvI5MX1bz62INzzUJeVlObzQfEWeIymTWM6w==",
   "success": true,
-  "projectFilePath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Application\\Mercado.Application.csproj",
+  "projectFilePath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Application\\Mercado.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dayvson.silva\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\dayvson.silva\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512",

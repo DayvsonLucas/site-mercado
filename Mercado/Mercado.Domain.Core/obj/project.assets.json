@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
       "projectName": "Mercado.Domain.Core",
-      "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
+      "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
-      "outputPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\obj\\",
+      "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

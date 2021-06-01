@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kirRFSFXgAI/6TrvGQR940Xg++m0P6407CkafXf6OBdpA2v1LYY8m4xCfqLQv1J4BseD38cVS7P5qXTTOYdBmw==",
+  "dgSpecHash": "eRUK4/aYoOU67myt++izvcvxtCRByU46yhpTNlQsg2qGDLmZXOxgC0myaDW3KP5rg9DLn4mWsEhIfUoNaO+Tdg==",
   "success": true,
-  "projectFilePath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.CrossCuting.IOC\\Mercado.CrossCuting.IOC.csproj",
+  "projectFilePath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.CrossCuting.IOC\\Mercado.CrossCuting.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dayvson.silva\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\dayvson.silva\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512",

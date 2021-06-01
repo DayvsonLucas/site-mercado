@@ -10416,11 +10416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Api\\Mercado.Api.csproj",
+      "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Api\\Mercado.Api.csproj",
       "projectName": "Mercado.Api",
-      "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Api\\Mercado.Api.csproj",
+      "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Api\\Mercado.Api.csproj",
       "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
-      "outputPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Api\\obj\\",
+      "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10441,11 +10441,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.CrossCuting.IOC\\Mercado.CrossCuting.IOC.csproj": {
-              "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.CrossCuting.IOC\\Mercado.CrossCuting.IOC.csproj"
+            "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.CrossCuting.IOC\\Mercado.CrossCuting.IOC.csproj": {
+              "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.CrossCuting.IOC\\Mercado.CrossCuting.IOC.csproj"
             },
-            "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj": {
-              "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj"
+            "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj"
             }
           }
         }

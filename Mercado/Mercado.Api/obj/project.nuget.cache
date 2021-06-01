@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SdIBT+ADzxJkHLyNgeawsvFQDG6nL4MiFk69AdUlt0NgiMFB2naF6xWU54Pq3Nl5VuJm9s/TrScWudCsz+rkzg==",
+  "dgSpecHash": "8KFQN7gb7vv5jOZ5y/LlODB1cC4IvxaetoDF8vz2Pq+IiniOe/GnGOjddBIQYBeouzMwoF4R3MtqVFJvSeK/iA==",
   "success": true,
-  "projectFilePath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Api\\Mercado.Api.csproj",
+  "projectFilePath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Api\\Mercado.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dayvson.silva\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\dayvson.silva\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.0\\automapper.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",

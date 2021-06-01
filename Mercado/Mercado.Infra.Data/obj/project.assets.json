@@ -6932,11 +6932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
       "projectName": "Mercado.Infra.Data",
-      "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
-      "outputPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6957,11 +6957,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
-              "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
+            "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
             },
-            "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
-              "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj"
+            "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
+              "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Application\\Mercado.Application.csproj": {}
+    "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Application\\Mercado.Application.csproj": {}
   },
   "projects": {
-    "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Application\\Mercado.Application.csproj": {
+    "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Application\\Mercado.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Application\\Mercado.Application.csproj",
+        "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Application\\Mercado.Application.csproj",
         "projectName": "Mercado.Application",
-        "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Application\\Mercado.Application.csproj",
+        "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Application\\Mercado.Application.csproj",
         "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
-        "outputPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Application\\obj\\",
+        "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,14 +32,14 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
-                "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
+              "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
               },
-              "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
-                "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj"
+              "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj"
               },
-              "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj": {
-                "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj"
+              "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
+    "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
         "projectName": "Mercado.Domain.Core",
-        "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
-        "outputPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -152,14 +152,14 @@
         }
       }
     },
-    "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
+    "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj",
         "projectName": "Mercado.Domain",
-        "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj",
+        "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj",
         "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
-        "outputPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\obj\\",
+        "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -180,8 +180,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
-                "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
+              "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
               }
             }
           }
@@ -220,14 +220,14 @@
         }
       }
     },
-    "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj": {
+    "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
         "projectName": "Mercado.Infra.Data",
-        "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\Mercado.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
-        "outputPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -248,11 +248,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
-                "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
+              "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain.Core\\Mercado.Domain.Core.csproj"
               },
-              "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
-                "projectPath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj"
+              "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\site-mercado\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj"
               }
             }
           }
