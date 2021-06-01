@@ -5,9 +5,9 @@ yarn install\
 yarn start
 
 # BANCO DE DADOS
-o banco de dados esta hospedado no azure os dados para autenticar são:
-servidor: sitemercado.database.windows.net
-usuario: adm
+O banco de dados esta hospedado no azure os dados para autenticar são:\
+servidor: sitemercado.database.windows.net\
+usuario: adm\
 senha: P@ssw0rd
 
 # BACK-END
