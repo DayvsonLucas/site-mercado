@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9KLiPFAF2o0tqoz763MUcK6OPIDu1BI2G03BQr1ds4hIEmmoyLuRgJY1+UfB5Am9b49XghbR9Xp3GjPgs8MKQ==",
+  "success": true,
+  "projectFilePath": "D:\\FoodTech\\.Net-ReactJS\\Mercado\\Mercado.Domain\\Mercado.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayvson.silva\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
