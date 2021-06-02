@@ -23,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-function Dashboard() {
+function Produto() {
   const classes = useStyles();
   const isMountedRef = useIsMountedRef();
   const [products, setProducts] = useState([]);
@@ -67,4 +67,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default Produto;

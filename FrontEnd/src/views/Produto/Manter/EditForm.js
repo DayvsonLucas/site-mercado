@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link as RouterLink } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import clsx from 'clsx';
 import * as Yup from 'yup';
@@ -251,14 +252,30 @@ function EditForm({
                 </Grid>
               </Grid>
               <Box mt={2}>
-                <Button
-                  variant="contained"
-                  color="secondary"
-                  type="submit"
-                  disabled={isSubmitting}
+                <Grid
+                  item
+                  md={12}
+                  xs={12}
                 >
-                  {productId ? 'Atualizar Produto' : 'Adicionar Produto'}
+                  <Button
+                    variant="contained"
+                    color="secondary"
+                    type="submit"
+                    disabled={isSubmitting}
+                  >
+                    {productId ? 'Atualizar Produto' : 'Adicionar Produto'}
+                  </Button>
+                  <Button
+                    variant="contained"
+                    color="default"
+                    style={{ float: 'right' }}
+                    className={classes.action}
+                    to='/produto'
+                    component={RouterLink}
+                  >
+                    Voltar
                 </Button>
+                </Grid>
               </Box>
             </CardContent>
           </Card>

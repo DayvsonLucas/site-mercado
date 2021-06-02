@@ -29,7 +29,7 @@ const pages = [
       {
         title: 'Produtos',
         icon: ShoppingCartIcon,
-        href: '/dashboard'
+        href: '/produto'
       }
     ]
   }

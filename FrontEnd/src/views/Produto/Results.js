@@ -131,7 +131,7 @@ function Results({ className, products, getProducts, ...rest }) {
                     <TableCell >
                       <IconButton
                         component={RouterLink}
-                        to={`/dashboard/manter/${product.id}`}
+                        to={`/produto/manter/${product.id}`}
                       >
                         <SvgIcon fontSize="small">
                           <EditIcon />

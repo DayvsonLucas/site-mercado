@@ -47,15 +47,9 @@ function Account() {
   };
 
   const handleLogout = async () => {
-    try {
-      handleClose();
-      await dispatch(logout());
-      history.push('/');
-    } catch (error) {
-      enqueueSnackbar('Unable to logout', {
-        variant: 'error'
-      });
-    }
+    handleClose();
+    logout()
+    history.push('/');
   };
 
   return (
@@ -95,15 +89,9 @@ function Account() {
         anchorEl={ref.current}
         open={isOpen}
       >
-        <MenuItem
-          component={RouterLink}
-          to="/app/social/profile"
-        >
-          Perfil
-                </MenuItem>
         <MenuItem onClick={handleLogout}>
           Sair
-                </MenuItem>
+       </MenuItem>
       </Menu>
     </>
   );
